@@ -1,3 +1,7 @@
+This is an **unofficial** personal fork of the Rigid Body Dynamics Library. See below for the original readme.
+
+----
+
 RBDL - Rigid Body Dynamics Library
 Copyright (c) 2011-2018 Martin Felis <martin@fysx.org>
 
